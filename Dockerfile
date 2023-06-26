@@ -1,3 +1,5 @@
+# Using docker cause it's easier to setup and run rather than using local machine
+
 FROM postgres:latest
 
 RUN mkdir /home
